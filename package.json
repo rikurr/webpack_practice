@@ -1,0 +1,11 @@
+{
+  "name": "lesson",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "UNLICENSE",
+  "private": true,
+  "devDependencies": {
+    "webpack": "4.41.6",
+    "webpack-cli": "3.3.11"
+  }
+}
